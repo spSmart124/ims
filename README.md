@@ -15,7 +15,7 @@ The system should be able to manage **Consumer**, **Producer**, **Context**. It 
 You can create the system to manage context. It should be used for business. The same idea should be applicable for multiple large context. 
 
 ## Core Application Idea
-[Core Application Idea](./core_idea.md)
+[Core Application Idea](./core_application_idea.md)
 
 ## Core Business Idea
 [Core Business Idea](./core_business_idea.md)
