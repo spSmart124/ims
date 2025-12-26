@@ -19,3 +19,6 @@
 **Product:** The final output of a producer's action is product. It should be a unit that can be traded.
 
 **Trader:** Trader is an entity which sells product.
+
+## Context
+[Context](./context.md)

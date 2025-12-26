@@ -3,4 +3,4 @@
 The application can do business in following ways.
 * Per transaction of selling product
 * Advertisement
-* Sponsoring consumer and selling product
+* Sponsoring producer and selling product
