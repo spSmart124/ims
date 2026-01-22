@@ -24,6 +24,21 @@ The consumer of the system will receive points based on completion of simple act
 The system will share revenue with content creater. This system will also help to generate revenue for it's consumer.
 
 ## Components
+* Content
 * Content Creater
 * Content Consumer
 
+### Content
+This system should be broad enough to include many types of content like
+* Text
+* Image
+* Audio
+* Video
+
+[Content](./content.md)
+
+### Content Creater
+Content creater is an entity which creats the content. His goal is to make a content which is entertaining and useful. He takes the ownership to get the most value out of the content created.
+
+### Content Consumer
+Content consumer is an entity which consumes the content by reading, watching or listening to it.
